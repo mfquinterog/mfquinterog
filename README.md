@@ -6,16 +6,17 @@ I'm a Colombian physicist who is passionate about data. I'm learning about neura
 
 - **Location:** Bogotá, CO.
 - **Interests:** 
-                 - Machine learning
 
-                 - Deep Learning
+     - Machine learning
 
-                 - Data Science
+     - Deep Learning
 
-                 - Data analytics
+     - Data Science
 
-                 - Statistics and mathematics
-                 
+     - Data analytics
+
+      - Statistics and mathematics
+
 - **Goals:** My goal is to deepen my understanding of machine learning and deep learning and enhance my ability to  model data. Create projects to analyze, visualize and model data from a real-world problems, allowing me to apply my knowledge and contribute.
 
 ## Current Projects
